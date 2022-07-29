@@ -80,7 +80,9 @@ declares what language the webpage is written in. In our case, writing in
 English, we will use `lang="en"`. This helps search engines to know what
 language a page is written in. Google, for instance, can use the `lang`
 attribute to know when to prompt users about translating web content.
-
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
 ```html
 <html lang="en"></html>
 ```
